@@ -1,0 +1,9 @@
+---
+applications:
+- env:
+    "ES.MessageBus.Configuration:EndpointName": "pharmacy-service"
+
+    # Events
+    # No Events
+    # -NA-
+    #

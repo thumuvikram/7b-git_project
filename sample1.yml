@@ -1,0 +1,8 @@
+--
+applications:
+- env:
+    "ES.MessageBus.Configuration:EndpointName": "pharmacy-service"
+
+    # Events
+    "Creehan.Framework.Messaging:Topics:PharmacyEvent": "PHARMACY.EVENTS"
+
